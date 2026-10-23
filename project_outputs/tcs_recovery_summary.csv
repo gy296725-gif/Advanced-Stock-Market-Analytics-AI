@@ -1,0 +1,2 @@
+Latest_Date,Latest_Adjusted_Close,Previous_Peak_Date,Previous_Peak_Price,Trough_Date,Trough_Price,Maximum_Drawdown_Pct,Decline_From_Peak_Pct,Rebound_From_Trough_Pct,Gain_Needed_To_Reach_Peak_Pct,Recovery_Status,Sessions_After_Trough
+2026-10-16 00:00:00+05:30,2465.0,2024-08-30 00:00:00+05:30,4208.3388671875,2026-07-01 00:00:00+05:30,1961.362060546875,-53.39343806555947,-41.4258195978548,25.677968876011526,70.72368629563894,Not yet recovered in available data,75
